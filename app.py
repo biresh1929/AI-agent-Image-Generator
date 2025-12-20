@@ -9,8 +9,8 @@ from Gradio_UI import GradioUI
 
 # Set your Hugging Face token
 # Get your token from: https://huggingface.co/settings/tokens
-HF_TOKEN = "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"  # Replace with your actual token
-os.environ['HF_TOKEN'] = HF_TOKEN
+
+HF_TOKEN = os.environ['HF_TOKEN']
 
 # Below is an example of a tool that does nothing. Amaze us with your creativity !
 @tool
