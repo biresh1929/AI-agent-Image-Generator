@@ -8,7 +8,7 @@ This project demonstrates how an autonomous agent can **plan, reason, use tools,
 ## 🚀 Live Demo
 
 🔗 **Hugging Face Spaces (Gradio App):**  
-> *(Add your Space link here)*
+> https://huggingface.co/spaces/birubhai/ai-agent-image-generator
 
 ---
 
