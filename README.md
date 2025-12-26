@@ -4,7 +4,11 @@ An **AI Agent–powered Text-to-Image Generator** built using the **Smol Agents 
 This project demonstrates how an autonomous agent can **plan, reason, use tools, and generate images** from natural language prompts.
 
 ---
-
+## Usage
+- First type in prompt like "Generate image of a horse" or anything
+- Press ENTER
+- The AI agent will then perform multi-step reasoning to generate the correct image.
+---
 ## 🚀 Live Demo
 
 🔗 **Hugging Face Spaces (Gradio App):**  
